@@ -29,5 +29,5 @@ Telas - Quiz de Espanhol
 ![quizespanhol4](https://github.com/user-attachments/assets/8e39a00d-1635-473e-b8cb-5a2e2b5d18b0)
 
 Teste
--  Nivaldo (Espanhol) - "Aplicativo fantástico, não trava e não teve delay"
--  Rafael (História) - "Aplicativo muito legal, principalmente por causa das imagens de fundo. Sugestão"
+-  Nivaldo (Espanhol) - "Aplicativo fantástico, não trava e não teve delay."
+-  Rosângela (História) - "Aplicativo muito legal, principalmente por causa das imagens de fundo."
